@@ -1,3 +1,3 @@
 # API-Key
-Bing Places
-# This is an API IndexNow Hosting page 
+### Bing Places
+This is an API IndexNow Hosting page 
